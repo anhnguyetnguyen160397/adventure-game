@@ -25,6 +25,7 @@ def intro(monster):
     print_pause('To your right is a dark cave.')
     print_pause("In your hand you  hold your trusty (but not very effective) "
                 "dragger.\n")
+    
 
 
 def house_or_cave(item, monster):
